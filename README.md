@@ -15,3 +15,6 @@ A movie recommendation system, or a movie recommender system, is an ML-based ap
 3. Collaborative Recommendation System
 
 In this project, we will try to incoorporate the content-based and popularity-based Recommendation System
+
+## Workflow
+![image](https://user-images.githubusercontent.com/93417422/202836380-ec18b263-0bde-408e-a81c-e8354b258ce8.png)
