@@ -21,4 +21,5 @@ In this project, we will try to incoorporate the content-based and popularity-ba
 
 ## UI Development
 I have developed a UI in Tkinter. Tkinter is Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of Tcl/Tk. Tkinter is not the only GUI Programming toolkit for Python. It is however the most commonly used one.
-![image](https://user-images.githubusercontent.com/93417422/207117247-52e3a976-04e5-47a7-8c30-078090b68501.png)
+![image](https://user-images.githubusercontent.com/93417422/207117387-6f560513-a9a1-4b7f-8260-500bbc384cdc.png)
+
