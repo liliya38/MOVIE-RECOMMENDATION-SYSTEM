@@ -18,3 +18,7 @@ In this project, we will try to incoorporate the content-based and popularity-ba
 
 ## Workflow
 ![image](https://user-images.githubusercontent.com/93417422/202836380-ec18b263-0bde-408e-a81c-e8354b258ce8.png)
+
+## UI Development
+I have developed a UI in Tkinter. Tkinter is Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of Tcl/Tk. Tkinter is not the only GUI Programming toolkit for Python. It is however the most commonly used one.
+![image](https://user-images.githubusercontent.com/93417422/207117247-52e3a976-04e5-47a7-8c30-078090b68501.png)
